@@ -1,0 +1,13 @@
+title: Some notes ...
+email: email@michaelhaslauer.de
+description: Some notes about stuff. 
+baseurl: "/notes"
+url: "https://haslauer.github.io"
+
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
