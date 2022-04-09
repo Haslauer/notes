@@ -1,7 +1,9 @@
 title: Some notes ...
 email: email@michaelhaslauer.de
 description: Some notes about stuff. 
-baseurl: ""
+
+domain: haslauer.github.io 
+baseurl: "/notes/"
 url: "https://haslauer.github.io"
 
 theme: jekyll-theme-cayman
