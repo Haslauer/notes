@@ -3,10 +3,10 @@ email: email@michaelhaslauer.de
 description: Some notes about stuff. 
 
 domain: haslauer.github.io 
-baseurl: "/notes/"
+baseurl: "/notes"
 url: "https://haslauer.github.io"
 
-theme: jekyll-theme-cayman
+theme: minima
 
 plugins:
   - jekyll-paginate
