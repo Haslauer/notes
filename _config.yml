@@ -1,10 +1,12 @@
-title: Some notes ...
+title: Notes About Things 
 email: email@michaelhaslauer.de
-description: Some notes about stuff. 
+description: Notes about mostly developing software and everything i want to remember. 
 
 domain: haslauer.github.io 
 baseurl: "/notes"
 url: "https://haslauer.github.io"
+
+list_title: "Notesa"
 
 theme: minima
 
@@ -12,4 +14,3 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
